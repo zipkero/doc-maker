@@ -48,6 +48,13 @@ func TestTranslatedPath_Structure(t *testing.T) {
 			wantSuffix: "sites/ollama/output/docs/guide.md",
 		},
 		{
+			name:       "비-.md 확장자는 .md로 교체",
+			siteDir:    "sites/ollama",
+			siteID:     "ollama",
+			pageURL:    "https://ollama.com/openapi.yaml",
+			wantSuffix: "sites/ollama/output/openapi.md",
+		},
+		{
 			name:       "중첩 경로 구조 보존",
 			siteDir:    "/tmp/sites/mysite",
 			siteID:     "mysite",

@@ -25,7 +25,10 @@ import (
 //  1. url.Parse로 URL 경로(u.Path) 추출
 //  2. 선행 '/' 제거
 //  3. '/'를 OS 경로 구분자로 변환(filepath.FromSlash)
-//  4. 확장자가 없으면 ".md"를 붙임
+//  4. 확장자를 ".md"로 정규화한다(번역문은 항상 마크다운이므로):
+//     확장자가 없으면 ".md"를 붙이고, ".md"가 아닌 확장자(예: ".yaml")는 ".md"로 교체한다.
+//     따라서 비-.md 원문(raw/openapi.yaml)의 출력은 output/openapi.md가 되어
+//     raw와 확장자만 달라진다(하위 경로 구조는 동일).
 //  5. filepath.Clean 적용
 //  6. site.OutputDir() 아래에 결합
 func TranslatedPath(site *config.Site, pageURL string) string {
@@ -39,8 +42,10 @@ func TranslatedPath(site *config.Site, pageURL string) string {
 	rawPath := strings.TrimPrefix(u.Path, "/")
 	localRelPath := filepath.FromSlash(rawPath)
 
-	if filepath.Ext(localRelPath) == "" {
+	if ext := filepath.Ext(localRelPath); ext == "" {
 		localRelPath += ".md"
+	} else if ext != ".md" {
+		localRelPath = strings.TrimSuffix(localRelPath, ext) + ".md"
 	}
 
 	return filepath.Clean(filepath.Join(outputDir, localRelPath))
