@@ -1,0 +1,17 @@
+# Go 빌드 산출물
+/bin/
+*.exe
+*.out
+*.test
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 수집·번역 생성물 (재생성 가능 — config.json·glossary.json만 추적)
+sites/*/raw/
+sites/*/output/
+sites/*/manifest.json

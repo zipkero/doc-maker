@@ -1,0 +1,6 @@
+{
+  "base_url": "https://docs.ollama.com",
+  "source_type": "llms.txt",
+  "include_patterns": [],
+  "exclude_patterns": []
+}
