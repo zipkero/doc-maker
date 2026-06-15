@@ -11,7 +11,7 @@
 .DS_Store
 Thumbs.db
 
-# 수집·번역 생성물 (재생성 가능 — config.json·glossary.json만 추적)
+# 수집 원문 (collect로 재취득 가능 — 추적 제외)
 sites/*/raw/
-sites/*/output/
-sites/*/manifest.json
+
+# 번역 결과(output/)와 상태 원장(manifest.json)은 git으로 관리한다.

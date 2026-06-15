@@ -1,0 +1,334 @@
+{
+  "entries": {
+    "https://docs.ollama.com/api-reference/get-version.md": {
+      "source_hash": "2169cbe35897d70d37ef37541bff21954f7e70897e4e7e8b534f2e8e768cfbeb",
+      "source_path": "raw/api-reference/get-version.md",
+      "translated_hash": "2169cbe35897d70d37ef37541bff21954f7e70897e4e7e8b534f2e8e768cfbeb"
+    },
+    "https://docs.ollama.com/api-reference/show-model-details.md": {
+      "source_hash": "f361cac9518d94650b0dbe8032a5268f335f68d91b43526c8862a36f521e07c9",
+      "source_path": "raw/api-reference/show-model-details.md",
+      "translated_hash": "f361cac9518d94650b0dbe8032a5268f335f68d91b43526c8862a36f521e07c9"
+    },
+    "https://docs.ollama.com/api/anthropic-compatibility.md": {
+      "source_hash": "7fe695abd2ac40e1b002c27d29faa878d4383af3fb96815a1de4863bf45d1583",
+      "source_path": "raw/api/anthropic-compatibility.md",
+      "translated_hash": "7fe695abd2ac40e1b002c27d29faa878d4383af3fb96815a1de4863bf45d1583"
+    },
+    "https://docs.ollama.com/api/authentication.md": {
+      "source_hash": "5c51cc1d974d37d3772e47be8ed956d964735b993f301a00ae2149dadd99d096",
+      "source_path": "raw/api/authentication.md",
+      "translated_hash": "5c51cc1d974d37d3772e47be8ed956d964735b993f301a00ae2149dadd99d096"
+    },
+    "https://docs.ollama.com/api/chat.md": {
+      "source_hash": "948a869001e0705d9e2bff59a6264234a70ee4e9e6da03c0f116b2204411d3e9",
+      "source_path": "raw/api/chat.md",
+      "translated_hash": "948a869001e0705d9e2bff59a6264234a70ee4e9e6da03c0f116b2204411d3e9"
+    },
+    "https://docs.ollama.com/api/copy.md": {
+      "source_hash": "dfc819721658bde02ba51b5f6eeb363e997a3df13f922a86a14a0878cc076661",
+      "source_path": "raw/api/copy.md",
+      "translated_hash": "dfc819721658bde02ba51b5f6eeb363e997a3df13f922a86a14a0878cc076661"
+    },
+    "https://docs.ollama.com/api/create.md": {
+      "source_hash": "0abe76f7eab7bca7a694caa5d1032479e74cc69d0c34172e3e2d39a4d8d45e4f",
+      "source_path": "raw/api/create.md",
+      "translated_hash": "0abe76f7eab7bca7a694caa5d1032479e74cc69d0c34172e3e2d39a4d8d45e4f"
+    },
+    "https://docs.ollama.com/api/delete.md": {
+      "source_hash": "47f4aafe0b6710493a136dbb00c7dd1a3abec86d38eed809d4d996ab92d9a128",
+      "source_path": "raw/api/delete.md",
+      "translated_hash": "47f4aafe0b6710493a136dbb00c7dd1a3abec86d38eed809d4d996ab92d9a128"
+    },
+    "https://docs.ollama.com/api/embed.md": {
+      "source_hash": "5d7af816729459d204a5a7b0b2c153b19fa012333b68bbfefd7aef2792ea9b2a",
+      "source_path": "raw/api/embed.md",
+      "translated_hash": "5d7af816729459d204a5a7b0b2c153b19fa012333b68bbfefd7aef2792ea9b2a"
+    },
+    "https://docs.ollama.com/api/errors.md": {
+      "source_hash": "53592031243e6b0322d0826606e088ee6f24d2855c237a9768238d24f609ae24",
+      "source_path": "raw/api/errors.md",
+      "translated_hash": "53592031243e6b0322d0826606e088ee6f24d2855c237a9768238d24f609ae24"
+    },
+    "https://docs.ollama.com/api/generate.md": {
+      "source_hash": "443a4d59404f2f7d222d311684be038f6de1945f726d8bb0593e73af353deacd",
+      "source_path": "raw/api/generate.md",
+      "translated_hash": "443a4d59404f2f7d222d311684be038f6de1945f726d8bb0593e73af353deacd"
+    },
+    "https://docs.ollama.com/api/introduction.md": {
+      "source_hash": "c8b08bb8765c6747dfd218ed268b4c2f5c1a7f8b6994a906bd80fd064feb7f8d",
+      "source_path": "raw/api/introduction.md",
+      "translated_hash": "c8b08bb8765c6747dfd218ed268b4c2f5c1a7f8b6994a906bd80fd064feb7f8d"
+    },
+    "https://docs.ollama.com/api/openai-compatibility.md": {
+      "source_hash": "94b11cf5ef8989b91f25e56b66c94bed450bda4d7af88298846c445ec8f66197",
+      "source_path": "raw/api/openai-compatibility.md",
+      "translated_hash": "94b11cf5ef8989b91f25e56b66c94bed450bda4d7af88298846c445ec8f66197"
+    },
+    "https://docs.ollama.com/api/ps.md": {
+      "source_hash": "f90a935a3014ab96d20098807ea8188d62f910271d615e204abf3b4b670a9a39",
+      "source_path": "raw/api/ps.md",
+      "translated_hash": "f90a935a3014ab96d20098807ea8188d62f910271d615e204abf3b4b670a9a39"
+    },
+    "https://docs.ollama.com/api/pull.md": {
+      "source_hash": "52d4a3e814abbbbc291de6062cd033d1f54e076aaf3662d65d354f258dc1168b",
+      "source_path": "raw/api/pull.md",
+      "translated_hash": "52d4a3e814abbbbc291de6062cd033d1f54e076aaf3662d65d354f258dc1168b"
+    },
+    "https://docs.ollama.com/api/push.md": {
+      "source_hash": "28a08652a1d1127fa3173f97a58d7fd86127ae42607bd0a3aeb6afdb968d4467",
+      "source_path": "raw/api/push.md",
+      "translated_hash": "28a08652a1d1127fa3173f97a58d7fd86127ae42607bd0a3aeb6afdb968d4467"
+    },
+    "https://docs.ollama.com/api/streaming.md": {
+      "source_hash": "b2e3fc509d2069310ec835632305f139b8d7a7e0f56dcff985c4d5d528c45991",
+      "source_path": "raw/api/streaming.md",
+      "translated_hash": "b2e3fc509d2069310ec835632305f139b8d7a7e0f56dcff985c4d5d528c45991"
+    },
+    "https://docs.ollama.com/api/tags.md": {
+      "source_hash": "927f7917773bdc4cdbaaa5b80f54da5b488546f1a2f1531af66e9d3c2cc56ad2",
+      "source_path": "raw/api/tags.md",
+      "translated_hash": "927f7917773bdc4cdbaaa5b80f54da5b488546f1a2f1531af66e9d3c2cc56ad2"
+    },
+    "https://docs.ollama.com/api/usage.md": {
+      "source_hash": "a477dbb2bb33972aa4e9347e401516927fd206d40afd1968f866d272568e8e4b",
+      "source_path": "raw/api/usage.md",
+      "translated_hash": "a477dbb2bb33972aa4e9347e401516927fd206d40afd1968f866d272568e8e4b"
+    },
+    "https://docs.ollama.com/capabilities/embeddings.md": {
+      "source_hash": "62d7c8ba5124825abd30fa10a532d92c4a2e35598c5e7f9549c5480411e95c92",
+      "source_path": "raw/capabilities/embeddings.md",
+      "translated_hash": "62d7c8ba5124825abd30fa10a532d92c4a2e35598c5e7f9549c5480411e95c92"
+    },
+    "https://docs.ollama.com/capabilities/streaming.md": {
+      "source_hash": "a45eb09537f6e729b4082ddaa89c3f72beff1d811f2c651dd60ed2a5eefa9eb2",
+      "source_path": "raw/capabilities/streaming.md",
+      "translated_hash": "a45eb09537f6e729b4082ddaa89c3f72beff1d811f2c651dd60ed2a5eefa9eb2"
+    },
+    "https://docs.ollama.com/capabilities/structured-outputs.md": {
+      "source_hash": "48aa38baa1e74eaedc42de7a3399eca4fb695286459d1cfa1ebb377978adbabb",
+      "source_path": "raw/capabilities/structured-outputs.md",
+      "translated_hash": "48aa38baa1e74eaedc42de7a3399eca4fb695286459d1cfa1ebb377978adbabb"
+    },
+    "https://docs.ollama.com/capabilities/thinking.md": {
+      "source_hash": "c5d730cda79570597035ad6ae21dfa9b8876fc640d30306a33d1001ae8df11d2",
+      "source_path": "raw/capabilities/thinking.md",
+      "translated_hash": "c5d730cda79570597035ad6ae21dfa9b8876fc640d30306a33d1001ae8df11d2"
+    },
+    "https://docs.ollama.com/capabilities/tool-calling.md": {
+      "source_hash": "94f98a3c7671ebfedf55c779da2fe46408eecebe61c96ccc04355c1213741292",
+      "source_path": "raw/capabilities/tool-calling.md",
+      "translated_hash": "94f98a3c7671ebfedf55c779da2fe46408eecebe61c96ccc04355c1213741292"
+    },
+    "https://docs.ollama.com/capabilities/vision.md": {
+      "source_hash": "ada7bb96d3c099d855e30fe7bd8ed8c1eb7e6a1c6baa508c5175b9706225aeb3",
+      "source_path": "raw/capabilities/vision.md",
+      "translated_hash": "ada7bb96d3c099d855e30fe7bd8ed8c1eb7e6a1c6baa508c5175b9706225aeb3"
+    },
+    "https://docs.ollama.com/capabilities/web-search.md": {
+      "source_hash": "faf06fd3fd8990caa6577158fdef7281c0cb089acf4cdcce86e53b0741bb6997",
+      "source_path": "raw/capabilities/web-search.md",
+      "translated_hash": "faf06fd3fd8990caa6577158fdef7281c0cb089acf4cdcce86e53b0741bb6997"
+    },
+    "https://docs.ollama.com/cli.md": {
+      "source_hash": "6b076b37f0e79262d686cabb40c0cd193227f3d896f430e95d26d8d2bf652506",
+      "source_path": "raw/cli.md",
+      "translated_hash": "6b076b37f0e79262d686cabb40c0cd193227f3d896f430e95d26d8d2bf652506"
+    },
+    "https://docs.ollama.com/cloud.md": {
+      "source_hash": "cf313850f1b3acd31810327d9648e19208c3c2703e564649fd7ab23554cb3092",
+      "source_path": "raw/cloud.md",
+      "translated_hash": "cf313850f1b3acd31810327d9648e19208c3c2703e564649fd7ab23554cb3092"
+    },
+    "https://docs.ollama.com/context-length.md": {
+      "source_hash": "e0ccc5a7d6b0ca5c7dc7227efa2da0740bf34bb1a9d3a731a31b91ba48297948",
+      "source_path": "raw/context-length.md",
+      "translated_hash": "e0ccc5a7d6b0ca5c7dc7227efa2da0740bf34bb1a9d3a731a31b91ba48297948"
+    },
+    "https://docs.ollama.com/docker.md": {
+      "source_hash": "3e86e7cc13f33a0ee131b6e588ad46f6b6fd7ebd8f4004139c8bb11f2038335c",
+      "source_path": "raw/docker.md",
+      "translated_hash": "3e86e7cc13f33a0ee131b6e588ad46f6b6fd7ebd8f4004139c8bb11f2038335c"
+    },
+    "https://docs.ollama.com/faq.md": {
+      "source_hash": "ec2489d581ca99873bf334e78657539cbca39a0690e1af60e9bed23520567323",
+      "source_path": "raw/faq.md",
+      "translated_hash": "ec2489d581ca99873bf334e78657539cbca39a0690e1af60e9bed23520567323"
+    },
+    "https://docs.ollama.com/gpu.md": {
+      "source_hash": "91c8d375bb5f2ba24d4a17530d4d69f6afcf55e2d49f3fc2858183cdb8483d11",
+      "source_path": "raw/gpu.md",
+      "translated_hash": "91c8d375bb5f2ba24d4a17530d4d69f6afcf55e2d49f3fc2858183cdb8483d11"
+    },
+    "https://docs.ollama.com/import.md": {
+      "source_hash": "547b200031db957e8de44076ee038f91ff7d89710877dcae59124c5d6b68455e",
+      "source_path": "raw/import.md",
+      "translated_hash": "547b200031db957e8de44076ee038f91ff7d89710877dcae59124c5d6b68455e"
+    },
+    "https://docs.ollama.com/index.md": {
+      "source_hash": "2c0f271d7c6ac19321bd0b227d2573dcfb670bd9877f46268181b37c299e2834",
+      "source_path": "raw/index.md",
+      "translated_hash": "2c0f271d7c6ac19321bd0b227d2573dcfb670bd9877f46268181b37c299e2834"
+    },
+    "https://docs.ollama.com/integrations/claude-code.md": {
+      "source_hash": "ad03fc614a7c2457f1c03119d60fc374893aa8f24b22f68730955329d3e39010",
+      "source_path": "raw/integrations/claude-code.md",
+      "translated_hash": "ad03fc614a7c2457f1c03119d60fc374893aa8f24b22f68730955329d3e39010"
+    },
+    "https://docs.ollama.com/integrations/cline-cli.md": {
+      "source_hash": "2a5308f4c904d2796953f267d7f1f31a661927e11f7e68cafeeb9584e791c6f9",
+      "source_path": "raw/integrations/cline-cli.md",
+      "translated_hash": "2a5308f4c904d2796953f267d7f1f31a661927e11f7e68cafeeb9584e791c6f9"
+    },
+    "https://docs.ollama.com/integrations/cline.md": {
+      "source_hash": "570260351760926ca3e53ea993939f034973f23f73043bb8c75ee8a80d103f13",
+      "source_path": "raw/integrations/cline.md",
+      "translated_hash": "570260351760926ca3e53ea993939f034973f23f73043bb8c75ee8a80d103f13"
+    },
+    "https://docs.ollama.com/integrations/codex-app.md": {
+      "source_hash": "ee44cfb4a4bd403d065c4a4688bd3f68b9950818726db170c8f65ce9088abbff",
+      "source_path": "raw/integrations/codex-app.md",
+      "translated_hash": "ee44cfb4a4bd403d065c4a4688bd3f68b9950818726db170c8f65ce9088abbff"
+    },
+    "https://docs.ollama.com/integrations/codex.md": {
+      "source_hash": "5c59a0667f0870aabfec172380096219257bd568bc179db0613e1bb4917a2078",
+      "source_path": "raw/integrations/codex.md",
+      "translated_hash": "5c59a0667f0870aabfec172380096219257bd568bc179db0613e1bb4917a2078"
+    },
+    "https://docs.ollama.com/integrations/copilot-cli.md": {
+      "source_hash": "dc9949084fe8b42a9a3454aa474e083c924f0082a49bb39402ef69e0b1bc53ae",
+      "source_path": "raw/integrations/copilot-cli.md",
+      "translated_hash": "dc9949084fe8b42a9a3454aa474e083c924f0082a49bb39402ef69e0b1bc53ae"
+    },
+    "https://docs.ollama.com/integrations/droid.md": {
+      "source_hash": "28a8290ba85e3c3cae70c7eebbc3e195fde7e2818eec33fa13ea06383df08636",
+      "source_path": "raw/integrations/droid.md",
+      "translated_hash": "28a8290ba85e3c3cae70c7eebbc3e195fde7e2818eec33fa13ea06383df08636"
+    },
+    "https://docs.ollama.com/integrations/goose.md": {
+      "source_hash": "c2b8b31c6ddd4851d33caeb838f831018d2a294c4d79d64418a18f5c93a1cebe",
+      "source_path": "raw/integrations/goose.md",
+      "translated_hash": "c2b8b31c6ddd4851d33caeb838f831018d2a294c4d79d64418a18f5c93a1cebe"
+    },
+    "https://docs.ollama.com/integrations/hermes-desktop.md": {
+      "source_hash": "7b96d8d3b84a79c6949a3c7450a55cab72f9c6c0266a2104f6a266327e717f2f",
+      "source_path": "raw/integrations/hermes-desktop.md",
+      "translated_hash": "7b96d8d3b84a79c6949a3c7450a55cab72f9c6c0266a2104f6a266327e717f2f"
+    },
+    "https://docs.ollama.com/integrations/hermes.md": {
+      "source_hash": "5976982d67d9661a287b8e35f2971fed1ca6e2cba7bb19dd6859eedf64dba46c",
+      "source_path": "raw/integrations/hermes.md",
+      "translated_hash": "5976982d67d9661a287b8e35f2971fed1ca6e2cba7bb19dd6859eedf64dba46c"
+    },
+    "https://docs.ollama.com/integrations/index.md": {
+      "source_hash": "8e1cb86bba2d47c2f7121125198551f6eda933e5552257bd9dd54d32d11086bd",
+      "source_path": "raw/integrations/index.md",
+      "translated_hash": "8e1cb86bba2d47c2f7121125198551f6eda933e5552257bd9dd54d32d11086bd"
+    },
+    "https://docs.ollama.com/integrations/jetbrains.md": {
+      "source_hash": "b4da1169629967a0f7e315ed27e49ba43fc97cfe436b8389fb3fea179d5e1428",
+      "source_path": "raw/integrations/jetbrains.md",
+      "translated_hash": "b4da1169629967a0f7e315ed27e49ba43fc97cfe436b8389fb3fea179d5e1428"
+    },
+    "https://docs.ollama.com/integrations/marimo.md": {
+      "source_hash": "e1cf3947112071e8348e33ee4d40c11579355d243fec57bf38f418c00249ed0e",
+      "source_path": "raw/integrations/marimo.md",
+      "translated_hash": "e1cf3947112071e8348e33ee4d40c11579355d243fec57bf38f418c00249ed0e"
+    },
+    "https://docs.ollama.com/integrations/n8n.md": {
+      "source_hash": "a66822c888b677be1979fcaad89b07c9ea008eadb38779c4243d4faa4974ba7c",
+      "source_path": "raw/integrations/n8n.md",
+      "translated_hash": "a66822c888b677be1979fcaad89b07c9ea008eadb38779c4243d4faa4974ba7c"
+    },
+    "https://docs.ollama.com/integrations/nemoclaw.md": {
+      "source_hash": "e8a1951a88f33818be56366174997c2b4d08b82ae58ccfc519883c78bd27e25c",
+      "source_path": "raw/integrations/nemoclaw.md",
+      "translated_hash": "e8a1951a88f33818be56366174997c2b4d08b82ae58ccfc519883c78bd27e25c"
+    },
+    "https://docs.ollama.com/integrations/oh-my-pi.md": {
+      "source_hash": "fd95ce5c338961fcf3bf44d9c44b1933f502167a8b6d13a1af6fe5bef5408a9a",
+      "source_path": "raw/integrations/oh-my-pi.md",
+      "translated_hash": "fd95ce5c338961fcf3bf44d9c44b1933f502167a8b6d13a1af6fe5bef5408a9a"
+    },
+    "https://docs.ollama.com/integrations/onyx.md": {
+      "source_hash": "d5005a81179e71e2ee8112a2e230feadc9082ebc32db441e5a41860bb1f853ff",
+      "source_path": "raw/integrations/onyx.md",
+      "translated_hash": "d5005a81179e71e2ee8112a2e230feadc9082ebc32db441e5a41860bb1f853ff"
+    },
+    "https://docs.ollama.com/integrations/openclaw.md": {
+      "source_hash": "cb478befe101ef37280535c2bb6a7be4878402f41e3e8484d5a94c4e2411ae78",
+      "source_path": "raw/integrations/openclaw.md",
+      "translated_hash": "cb478befe101ef37280535c2bb6a7be4878402f41e3e8484d5a94c4e2411ae78"
+    },
+    "https://docs.ollama.com/integrations/opencode.md": {
+      "source_hash": "fbbb974f290a78fc44273edf604e96e66212f3793fbaf417e9bb9bc96c213544",
+      "source_path": "raw/integrations/opencode.md",
+      "translated_hash": "fbbb974f290a78fc44273edf604e96e66212f3793fbaf417e9bb9bc96c213544"
+    },
+    "https://docs.ollama.com/integrations/pi.md": {
+      "source_hash": "c7eaf08b3f1d7069359e528eea24a2fb2ac74a67b4f3cac186c18c6a9aa90f1b",
+      "source_path": "raw/integrations/pi.md",
+      "translated_hash": "c7eaf08b3f1d7069359e528eea24a2fb2ac74a67b4f3cac186c18c6a9aa90f1b"
+    },
+    "https://docs.ollama.com/integrations/pool.md": {
+      "source_hash": "e3120f0f17b3cba6423e42057c8b8037311c4699bae3399d5a04c7d3948c655b",
+      "source_path": "raw/integrations/pool.md",
+      "translated_hash": "e3120f0f17b3cba6423e42057c8b8037311c4699bae3399d5a04c7d3948c655b"
+    },
+    "https://docs.ollama.com/integrations/roo-code.md": {
+      "source_hash": "13895e7e789df12e60e41b8498e55d34500a16f97a45ce5f16083f4a7b7d7d62",
+      "source_path": "raw/integrations/roo-code.md",
+      "translated_hash": "13895e7e789df12e60e41b8498e55d34500a16f97a45ce5f16083f4a7b7d7d62"
+    },
+    "https://docs.ollama.com/integrations/vscode.md": {
+      "source_hash": "de44089acb5439bcd138bfd3e877899c193414c7a10785100a30cd7bf260aa3c",
+      "source_path": "raw/integrations/vscode.md",
+      "translated_hash": "de44089acb5439bcd138bfd3e877899c193414c7a10785100a30cd7bf260aa3c"
+    },
+    "https://docs.ollama.com/integrations/xcode.md": {
+      "source_hash": "b4bf6e3970ebd3594459011ab31f0f1e06887f30023c04943693f4818a87fa1a",
+      "source_path": "raw/integrations/xcode.md",
+      "translated_hash": "b4bf6e3970ebd3594459011ab31f0f1e06887f30023c04943693f4818a87fa1a"
+    },
+    "https://docs.ollama.com/integrations/zed.md": {
+      "source_hash": "64c93ee6013078ebf4c806f30994da5c86c84f8b9e663809ea1b7fd79929aeec",
+      "source_path": "raw/integrations/zed.md",
+      "translated_hash": "64c93ee6013078ebf4c806f30994da5c86c84f8b9e663809ea1b7fd79929aeec"
+    },
+    "https://docs.ollama.com/linux.md": {
+      "source_hash": "f33ef7b5561e9b11238fe0a073e8374bfea68532a05be65f3c0e4e46a05f2e59",
+      "source_path": "raw/linux.md",
+      "translated_hash": "f33ef7b5561e9b11238fe0a073e8374bfea68532a05be65f3c0e4e46a05f2e59"
+    },
+    "https://docs.ollama.com/macos.md": {
+      "source_hash": "6d707dae2d70a1ee032609d823e05578235c34d34c55e68596e2ad0e7e8c68be",
+      "source_path": "raw/macos.md",
+      "translated_hash": "6d707dae2d70a1ee032609d823e05578235c34d34c55e68596e2ad0e7e8c68be"
+    },
+    "https://docs.ollama.com/modelfile.md": {
+      "source_hash": "f79d95b48444983c793a447f407197ff5d8102f91a1f6852d86919759c439569",
+      "source_path": "raw/modelfile.md",
+      "translated_hash": "f79d95b48444983c793a447f407197ff5d8102f91a1f6852d86919759c439569"
+    },
+    "https://docs.ollama.com/openapi.yaml": {
+      "source_hash": "e77f4236a9e5ef0995a86b4fd20dc1ed261be0a9b17caa3db571b3b18509e490",
+      "source_path": "raw/openapi.yaml",
+      "translated_hash": "e77f4236a9e5ef0995a86b4fd20dc1ed261be0a9b17caa3db571b3b18509e490"
+    },
+    "https://docs.ollama.com/quickstart.md": {
+      "source_hash": "314b5acf3155a84ee31a2d225ee0a9c1f6079280c7b16a4a62b6c004cdcddc0e",
+      "source_path": "raw/quickstart.md",
+      "translated_hash": "314b5acf3155a84ee31a2d225ee0a9c1f6079280c7b16a4a62b6c004cdcddc0e"
+    },
+    "https://docs.ollama.com/troubleshooting.md": {
+      "source_hash": "e777311d63986040fcb73ffeba6bd08005f5393b96bebd7b63bd34afd27da07b",
+      "source_path": "raw/troubleshooting.md",
+      "translated_hash": "e777311d63986040fcb73ffeba6bd08005f5393b96bebd7b63bd34afd27da07b"
+    },
+    "https://docs.ollama.com/windows.md": {
+      "source_hash": "d99107d21278ca70a9c6b60d104ba3fdbd36cb4811fc2256b9b186b20f1f33d1",
+      "source_path": "raw/windows.md",
+      "translated_hash": "d99107d21278ca70a9c6b60d104ba3fdbd36cb4811fc2256b9b186b20f1f33d1"
+    }
+  }
+}
